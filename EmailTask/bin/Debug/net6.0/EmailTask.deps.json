@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EmailTask/1.0.0": {
+        "dependencies": {
+          "IronXL.Excel": "2022.7.7362"
+        },
+        "runtime": {
+          "EmailTask.dll": {}
+        }
+      },
+      "IronXL.Excel/2022.7.7362": {
+        "runtime": {
+          "lib/netstandard2.0/IronXL.dll": {
+            "assemblyVersion": "2022.6.0.7362",
+            "fileVersion": "2022.6.0.7362"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmailTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IronXL.Excel/2022.7.7362": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4TVRKjAnj0Xc5OOTnseaZj6LurBGkGEfEP949Pyk6pYapXU3UK+x2+SNEsN9Z0O7ocY2Pu50nFnTlAzQgV6rQA==",
+      "path": "ironxl.excel/2022.7.7362",
+      "hashPath": "ironxl.excel.2022.7.7362.nupkg.sha512"
+    }
+  }
+}

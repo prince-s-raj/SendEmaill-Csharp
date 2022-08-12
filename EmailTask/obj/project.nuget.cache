@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SUCJAQfl7y1oRWCiFGfVr3VIV0UwdV4DTttv4oY86s+6500esZMvycZHSdxKpHDGXrHcZ3q/BuHHN/LEPfHVNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iamsa\\OneDrive\\Desktop\\EmailTask\\EmailTask\\EmailTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iamsa\\.nuget\\packages\\ironxl.excel\\2022.7.7362\\ironxl.excel.2022.7.7362.nupkg.sha512"
+  ],
+  "logs": []
+}

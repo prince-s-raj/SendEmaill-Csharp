@@ -1,0 +1,17 @@
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\obj\Debug\net6.0\EmailTask.csproj.AssemblyReference.cache
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\obj\Debug\net6.0\EmailTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\obj\Debug\net6.0\EmailTask.AssemblyInfoInputs.cache
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\obj\Debug\net6.0\EmailTask.AssemblyInfo.cs
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\obj\Debug\net6.0\EmailTask.csproj.CoreCompileInputs.cache
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\bin\Debug\net6.0\EmailTask.exe
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\bin\Debug\net6.0\EmailTask.deps.json
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\bin\Debug\net6.0\EmailTask.runtimeconfig.json
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\bin\Debug\net6.0\EmailTask.dll
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\bin\Debug\net6.0\EmailTask.pdb
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\obj\Debug\net6.0\EmailTask.dll
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\obj\Debug\net6.0\refint\EmailTask.dll
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\obj\Debug\net6.0\EmailTask.pdb
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\obj\Debug\net6.0\EmailTask.genruntimeconfig.cache
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\obj\Debug\net6.0\ref\EmailTask.dll
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\bin\Debug\net6.0\IronXL.dll
+C:\Users\iamsa\OneDrive\Desktop\EmailTask\EmailTask\obj\Debug\net6.0\EmailTask.csproj.CopyComplete
